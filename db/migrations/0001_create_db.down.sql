@@ -1,0 +1,2 @@
+DELETE TABLE IF EXISTS todo_list;
+DELETE TABLE IF EXISTS credentials;
