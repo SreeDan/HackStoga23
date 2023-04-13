@@ -1,4 +1,4 @@
-module github.com/hackstoga-2023-server
+module github.com/HackStoga-2023-server
 
 go 1.18
 
